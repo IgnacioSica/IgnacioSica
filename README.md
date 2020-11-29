@@ -1,4 +1,4 @@
-### Hi there 👋
+Passionate Software Engineering student eager to work in new projects and with new technologies. With a problem-solving approach and teamwork skills, I like tackling new challenges and to constantly push myself to learn and grow professionally and as a person. 
 
 <!--
 **IgnacioSica/IgnacioSica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
